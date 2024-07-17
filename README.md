@@ -1,4 +1,4 @@
-# LiteraluraPY
+# ChallengeLiteratura
 
 Este proyecto fue desarrollado como parte del aprendizaje de Spring Data JPA y PostgreSQL Driver, con el objetivo de integrar la API Gutendex y almacenar los resultados en una base de datos PostgreSQL. El proyecto se enfoca en funcionalidades específicas que permiten realizar operaciones básicas de gestión de libros.
 
